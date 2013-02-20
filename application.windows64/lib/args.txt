@@ -1,0 +1,3 @@
+ -Xms64m -Xmx4000m
+Heat_Simulation
+Heat_Simulation.jar,core.jar,jogl-all.jar,gluegen-rt.jar,jogl-all-natives-windows-amd64.jar,gluegen-rt-natives-windows-amd64.jar
